@@ -1,1 +1,3 @@
 # Wrangling and Visualizing Musical Data
+## Description
+Apply data-wrangling and visualization tools from the tidyverse to musical data. Find the most common chords and chord progressions in a sample of pop/rock music from the 1950s-1990s, and compare the styles of different artists. This project uses a parsed and cleaned version of the [McGill Billboard Dataset](https://ddmal.music.mcgill.ca/research/The_McGill_Billboard_Project_(Chord_Analysis_Dataset)/), version 2.0 (CC0 license).
