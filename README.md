@@ -18,3 +18,4 @@ install.packages("IRkernel")
 IRkernel::installspec()
 ```
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analysis.
+## Contents
